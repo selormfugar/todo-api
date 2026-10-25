@@ -1,2 +1,6 @@
 .env
-.env.example
+
+/vendor/
+/public/app.js
+/public/app.html
+
